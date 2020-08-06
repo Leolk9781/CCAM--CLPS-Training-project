@@ -1,0 +1,7 @@
+CCAM:
+  Credit card account management system, to achieve the basic functions of adding, deleting, modifying and checking in CICS, including:
+    1. The user opens an account, and the system adds and maintains the card account customer information
+    2. For user transactions, the system can modify the available quota in real time and modify the account balance in batch
+    3. Report generation and batch report generation;New account / customer / card report;Transaction statement
+
+    
